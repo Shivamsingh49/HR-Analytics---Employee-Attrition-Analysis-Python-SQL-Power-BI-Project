@@ -14,7 +14,7 @@ meaningful business insights. The analysis is performed using SQL for data explo
 - Python (Pandas) – Data cleaning and preprocessing
 - Power BI – Dashboard creation and visualization
 
-**Key Analysis Performed (SQL)**
+**Key Analysis Performed (SQL):**
 The following insights were derived using SQL:
 - Total Employees
 - Total Attrition Count
@@ -32,7 +32,7 @@ The following insights were derived using SQL:
 - Attrition by Years at Company
 These KPIs and insights were then visualized in the Power BI dashboard.
 
-**Dashboard Highlights**
+**Dashboard Highlights:**
 The dashboard includes:
 - KPI cards (Total Employees, Attrition, Attrition Rate, Avg Age, Avg Income)
 - Attrition analysis by department, job role, gender
@@ -48,7 +48,7 @@ The dashboard includes:
 - Younger employees (18–25) have the highest attrition rate
 - Certain job roles and departments** experience more turnover
 
-**Solution & Recommendations**
+**Solution & Recommendations:**
 Based on the analysis:
 - Improve work-life balance policies
 - Reduce excessive overtime workload
